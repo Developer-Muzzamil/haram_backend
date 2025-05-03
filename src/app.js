@@ -6,7 +6,11 @@ const enquiryRoutes = require("./routes/enquiryRoutes");
 
 const app = express();
 
-app.use(cors());
+const cors = require('cors');
+app.use(cors({
+  origin: 'https://nextstop-haramain.netlify.app/' // or use '*' for development
+}));
+
 app.use(express.json());
 
 // Mount routes
