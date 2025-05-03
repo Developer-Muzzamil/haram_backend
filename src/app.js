@@ -6,7 +6,6 @@ const enquiryRoutes = require("./routes/enquiryRoutes");
 
 const app = express();
 
-const cors = require('cors');
 app.use(cors({
   origin: 'https://nextstop-haramain.netlify.app/' // or use '*' for development
 }));
