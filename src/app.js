@@ -7,7 +7,8 @@ const enquiryRoutes = require("./routes/enquiryRoutes");
 const app = express();
 
 app.use(cors({
-  origin: 'https://nextstop-haramain.netlify.app' // or use '*' for development
+  // origin: 'https://nextstop-haramain.netlify.app' // or use '*' for development
+  origin: 'http://localhost:5173', // Allow all origins for development
 }));
 
 app.use(express.json());
