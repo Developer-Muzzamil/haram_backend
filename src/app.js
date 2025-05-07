@@ -8,7 +8,7 @@ const app = express();
 
 app.use(cors({
   origin: 'https://nextstop-haramain.netlify.app' // or use '*' for development
-  //origin: 'http://localhost:5173', // Allow all origins for development
+  // origin:'http://localhost:5173'// Allow local host
 }));
 
 app.use(express.json());
