@@ -1,0 +1,176 @@
+[
+  {
+    "id": "kaaba",
+    "title": "Kaaba",
+    "shortDescription":"The Kaaba is Islam’s holiest structure, located in Makkah, toward which all Muslims pray. It is the focal point of the Hajj pilgrimage.",
+    "fullDescription" :"The Kaaba is a cube-shaped structure situated at the heart of Masjid al-Haram in Makkah, Saudi Arabia. It is the most sacred site in Islam, and Muslims around the world face toward it during their five daily prayers. It serves as the Qibla, or direction of prayer, uniting Muslims globally in worship.",
+    "fullDescription2":"According to Islamic tradition, the Kaaba was built by Prophet Ibrahim and his son Ismail under Allah’s command. It is draped with a black cloth called the Kiswa, embroidered with Quranic verses. The Kaaba symbolizes the oneness of Allah and the unity of the Muslim Ummah.",
+    "fullDescription3":"Each year, millions of Muslims perform Hajj and Umrah, rituals that include Tawaf — the act of circumambulating the Kaaba seven times. It remains a powerful spiritual center and a symbol of submission to Allah. The Kaaba’s significance transcends its physical structure, representing the heart of Islamic faith and devotion.",
+    "image": "/images/kaaba/kaaba.webp",
+      "heroImage": "/images/kaaba/kabaa.jpg",
+    "gallery": [
+      "/images/kaaba/kaaba.webp",
+      "/images/kaaba/oldmakkah.webp",
+      "/images/kaaba/kaaba1.webp",
+      "/images/kaaba/kaaba2.webp",
+      "/images/kaaba/kaaba3.webp"
+    ]
+  },
+  {
+    "id": "hajr",
+    "title": "Hajr al-Aswad (Black Stone)",
+    "shortDescription" : "Hajr al-Aswad, or the Black Stone, is a revered stone set in the Kaaba's eastern corner, believed to be from paradise.",
+    "fullDescription" : "Hajr al-Aswad, or the Black Stone, is embedded in the eastern corner of the Kaaba. It holds immense religious significance and is believed to have descended from paradise. Initially white, it turned black due to absorbing the sins of humanity, according to Islamic belief. The stone is approximately 30 cm in diameter and is encased in a silver frame to protect it from damage.",
+    "fullDescription2" : "The stone is smooth, dark, and slightly fragmented, surrounded by a silver frame. Pilgrims attempt to kiss, touch, or point toward it during Tawaf, following the Sunnah of Prophet Muhammad ﷺ. Despite its reverence, it is not worshipped but honored as a sacred relic. The act of touching or kissing the stone symbolizes a connection to the divine and a reminder of the importance of repentance.",
+    "fullDescription3" : "Hajr al-Aswad represents a physical link to the Prophet Ibrahim and the early roots of Islamic faith. Its mysterious origin and divine association make it a profound symbol of repentance, humility, and connection to the divine. Pilgrims often express their devotion and seek forgiveness while in its presence, making it a focal point of spiritual reflection during their pilgrimage.",
+    "image": "/images/rp/BLACKSTONE.webp",
+      "heroImage": "/images/rp/BLACKSTONE.webp",
+          "gallery": ["/images/rp/blackStone1.webp","/images/rp/blackStone2.webp","/images/rp/blackStone3.webp","/images/rp/11.webp"]
+
+  },
+  {
+    "id": "maqam-e-ibrahim",
+    "title": "Maqam e Ibrahim",
+    "shortDescription": "A sacred stone near the Kaaba with the footprint of Prophet Ibrahim (AS), signifying the site where he stood while constructing the Kaaba.",
+    "fullDescription": "Maqam e Ibrahim, or the Station of Abraham, is a small, glass-enclosed structure near the Kaaba in Masjid al-Haram, Makkah. It houses a stone bearing the imprints of Prophet Ibrahim's (Abraham's) feet, which Muslims believe marks the spot where he stood while building the Kaaba with his son Ismail (AS). This sacred site is deeply revered and is directly referenced in the Quran (Surah Al-Baqarah 2:125).",
+    "fullDescription2": "According to Islamic tradition, as the walls of the Kaaba grew taller during its construction, Prophet Ibrahim stood on this stone, which miraculously rose and lowered to assist him in laying the stones. The footprints embedded in the rock have been preserved by divine will, reminding believers of Prophet Ibrahim’s dedication, humility, and submission to Allah’s command.",
+    "fullDescription3": "Today, Maqam e Ibrahim is protected by a golden and crystal casing and is located a few meters from the Kaaba. After performing Tawaf, Muslims are recommended to offer two Rak’ahs of prayer near this sacred stone. Despite the crowd and continuous Tawaf around the Kaaba, pilgrims seek moments near Maqam e Ibrahim for prayer and reflection, connecting spiritually with the legacy of Prophet Ibrahim (AS).",
+    "image": "/images/maqam_e_ibrahim/maqam_e_ibrahim.webp",
+      "heroImage": "/images/maqam_e_ibrahim/maqam_e_ibrahim.webp",
+      "gallery": ["/images/maqam_e_ibrahim/maqam_e_ibrahim1.webp","/images/maqam_e_ibrahim/maqam_e_ibrahim2.webp","/images/maqam_e_ibrahim/maqam_e_ibrahim3.webp","/images/maqam_e_ibrahim/maqam_e_ibrahim4.webp","/images/maqam_e_ibrahim/maqam_e_ibrahim5.webp"]
+  },
+  {
+    "id": "zamzam-well",
+    "title": "Zamzam Well",
+    "shortDescription": "A sacred well within Masjid al-Haram that miraculously gushed forth for Hajar and her son Ismail (AS) by Allah's will.",
+    "fullDescription": "The Zamzam Well is a blessed water source located within Masjid al-Haram in Makkah, a few meters east of the Kaaba. It holds profound historical and spiritual significance for Muslims worldwide. According to Islamic tradition, the well miraculously sprang forth when Hajar, the wife of Prophet Ibrahim (AS), ran between the hills of Safa and Marwah in search of water for her infant son Ismail (AS).",
+    "fullDescription2": "In response to her unwavering faith and effort, Allah caused water to gush out from the ground, creating the Zamzam Well. This miraculous event is commemorated by Muslims during the Hajj and Umrah rituals. The water has continued to flow for thousands of years and is considered pure and healing. Pilgrims eagerly drink from it and take it back home as a cherished gift.",
+    "fullDescription3": "Today, the well is housed in a controlled area, and its water is distributed through faucets and dispensers throughout the Grand Mosque. Zamzam symbolizes divine mercy, sustenance, and the reward of unwavering faith. Its significance is not only historical but spiritual, connecting believers with the trials and blessings experienced by Prophet Ibrahim’s family.",
+     "image": "/images/zamzam/zamzam1.webp",
+      "heroImage": "/images/zamzam/zamzam1.webp",
+          "gallery": ["/images/zamzam/zamzam1.webp","/images/zamzam/zamzam2.webp","/images/zamzam/zamzam3.webp","/images/zamzam/zamzam3.webp","/images/zamzam/zamzam5.webp"]
+
+  },
+  {
+    "id": "safa-marwah",
+    "title": "Safa and Marwah",
+    "shortDescription": "Two sacred hills within Masjid al-Haram, between which Hajar ran in search of water for her son Ismail (AS).",
+    "fullDescription": "Safa and Marwah are two small hills located inside Masjid al-Haram in Makkah. They hold immense religious significance as the site of the Sa’i ritual, where pilgrims walk back and forth seven times during Hajj and Umrah. This act commemorates the story of Hajar, who ran between these hills in desperation while searching for water for her infant son Ismail (AS).",
+    "fullDescription2": "The Sa’i reflects the values of perseverance, trust in Allah, and the strength of a mother’s faith. It is a key component of both the Hajj and Umrah pilgrimage. Allah rewarded Hajar’s unwavering faith by allowing the Zamzam Well to spring forth, quenching her son's thirst and establishing a vital source of life in the desert.",
+    "fullDescription3": "Today, Safa and Marwah are connected by an enclosed pathway with air conditioning and marble floors to aid the pilgrims. Green lights mark the sections where Hajar ran. Despite modern facilities, the spiritual journey across Safa and Marwah remains a humbling reminder of devotion and divine mercy.",
+    "image": "/images/safa&marwa/safa&marwa.webp",
+      "heroImage": "/images/safa&marwa/safa&marwa.webp",
+          "gallery": ["/images/safa&marwa/safa&marwa.webp","/images/safa&marwa/safa&marwa2.webp","/images/safa&marwa/safa&marwa3.webp","/images/safa&marwa/safa&marwa4.webp","/images/safa&marwa/safa&marwa5.webp"]
+
+  },
+  {
+    "id": "multazam",
+    "title": "Multazam",
+    "shortDescription": "The sacred area between the Kaaba’s door and the Black Stone where supplications are especially accepted.",
+    "fullDescription": "Multazam is the blessed area between the door of the Kaaba and the Hajar al-Aswad (Black Stone). This spot holds immense significance for Muslims as it is a place where supplications (duas) are believed to be especially accepted. Pilgrims often cling to this area with their chest, face, and hands, pouring their hearts out in prayer.",
+    "fullDescription2": "It is reported in several hadiths that Prophet Muhammad ﷺ supplicated at this place and encouraged others to do the same. The Multazam is a place of mercy and intimacy with Allah, where countless Muslims have wept and begged for forgiveness, mercy, and blessings.",
+    "fullDescription3": "Due to the crowd during Hajj and Umrah, access to Multazam can be limited, but pilgrims strive to reach it or at least raise their hands toward it. The experience of making heartfelt dua at this sacred spot forms a deep spiritual connection with the Kaaba and the Almighty.",
+    "image": "/images/multazam/multazam1.webp",
+      "heroImage": "/images/multazam/multazam1.webp",
+          "gallery": ["/images/multazam/multazam1.webp","/images/multazam/multazam2.webp","/images/multazam/multazam3.webp","/images/multazam/multazam4.webp","/images/multazam/multazam5.webp"]
+
+  },
+  {
+    "id": "hijr-ismail",
+    "title": "Hijr Ismail",
+    "shortDescription": "A semi-circular area adjacent to the Kaaba, once part of its original structure, where Prophet Ismail (AS) and his mother are believed to be buried.",
+    "fullDescription": "Hijr Ismail, also known as the Hatim, is the semi-circular white structure next to the Kaaba. It marks an area that was originally part of the Kaaba's structure during the time of Prophet Ibrahim (AS), but was excluded when the Quraysh rebuilt it due to lack of funds. Praying inside this area is equivalent to praying inside the Kaaba itself.",
+    "fullDescription2": "It is believed that this area is the resting place of Prophet Ismail (AS) and his mother Hajar. As such, it holds special reverence and many pilgrims seek to offer two rak’ahs of prayer here. It is also an area of tranquility amidst the movement of the tawaf.",
+    "image": "/images/hijr_e_ismail/hijr_e_ismail1.webp",
+      "heroImage": "/images/hijr_e_ismail/hijr_e_ismail1.webp",
+      "gallery": ["/images/hijr_e_ismail/hijr_e_ismail1.webp","/images/hijr_e_ismail/hijr_e_ismail2.webp","/images/hijr_e_ismail/hijr_e_ismail3.webp","/images/hijr_e_ismail/hijr_e_ismail4.webp","/images/hijr_e_ismail/hijr_e_ismail5.webp"]
+
+  },
+  {
+    "id": "mizab-al-rahmah",
+    "title": "Mizab al-Rahmah",
+    "shortDescription": "The golden spout on the Kaaba roof from where rainwater flows, symbolizing divine mercy.",
+    "fullDescription": "Mizab al-Rahmah, or the ‘Gutter of Mercy’, is the golden spout that extends from the roof of the Kaaba and drains rainwater from the roof into Hijr Ismail. It was installed to preserve the structure and is a symbol of divine mercy flowing upon the earth.",
+    "fullDescription2": "The current spout is made of gold and sits directly above Hijr Ismail. Historically, Prophet Muhammad ﷺ and his companions used to seek blessings from the rainwater flowing from this spout, believing it carried barakah (blessings).",
+    "fullDescription3": "Pilgrims often raise their hands in supplication under the Mizab during rain, considering it a deeply spiritual moment. The Mizab stands as a beautiful reminder of Allah’s mercy and provision, both physically and spiritually.",
+    "image": "/images/mizhab/1.jpg",
+      "heroImage": "/images/mizhab/1.jpg",
+      "gallery": ["/images/mizhab/1.jpg","/images/mizhab/2.jpg","/images/mizhab/3.jpg","/images/mizhab/4.jpg"]
+  },
+  {
+    "id": "rukn-al-yamani",
+    "title": "Rukn al-Yamani",
+    "shortDescription": "The corner of the Kaaba preceding the Black Stone, touched by Prophet Muhammad ﷺ during tawaf.",
+    "fullDescription": "Rukn al-Yamani is the southern corner of the Kaaba, just before reaching the Black Stone during tawaf. It is the only other corner of the Kaaba that the Prophet Muhammad ﷺ would physically touch during his circumambulation. It is considered highly virtuous to do the same.",
+    "fullDescription2": "Unlike the Black Stone, which is kissed, the Rukn al-Yamani is simply touched with the right hand if one is able. If not, it is passed without gesture. The Prophet ﷺ is reported to have said that between Rukn al-Yamani and Hajar al-Aswad, one should recite the supplication: 'Rabbana atina fid-dunya hasanah...'.",
+    "fullDescription3": "Though not as well-known as the Black Stone, Rukn al-Yamani is beloved by those familiar with its virtue. It provides a serene moment in the intense tawaf, offering another chance to connect with the practices of the Prophet ﷺ.",
+    "image": "/images/alyamani/Al_Haram.webp",
+      "heroImage": "/images/alyamani/Al_Haram.webp",
+      "gallery": ["/images/alyamani/Al_Haram.webp","/images/alyamani/alyamani1.webp","/images/alyamani/alyamani2.webp","/images/alyamani/alyamani3.webp","/images/alyamani/alyamani4.webp"]
+  },
+  {
+    "id": "maqsurah-kaaba",
+    "title": "Maqsurah of Kaaba",
+    "shortDescription": "A protected enclosure near the Kaaba designated for official prayer and protection of sacred elements.",
+    "fullDescription": "The Maqsurah refers to a protected and often roped-off area within Masjid al-Haram close to the Kaaba. Historically, it was meant to safeguard the prayer spot of the caliphs or rulers. In earlier Islamic periods, it was used to protect dignitaries during prayer.",
+    "fullDescription2": "Though it no longer serves a political function, the concept remains, symbolizing respect and formality. It also provides preservation to certain architectural elements of the Kaaba and surrounding area. Guards often ensure no congestion or overcrowding within this area.",
+    "fullDescription3": "For modern pilgrims, the Maqsurah is more symbolic than functional. It stands as a reminder of the sacred order and protocols maintained throughout Islamic history around holy places.",
+    "image": "/images/maqsurah/maqsurah1.webp",
+      "heroImage": "/images/maqsurah/maqsurah1.webp",
+      "gallery": ["/images/maqsurah/maqsurah1.webp","/images/maqsurah/maqsurah2.webp","/images/maqsurah/maqsurah3.webp","/images/maqsurah/maqsurah4.webp","/images/maqsurah/maqsurah5.webp"]
+  },
+    {
+    "id": "mihrab-minbar",
+    "title": "Mihrab and Minbar",
+    "shortDescription": "The Mihrab indicates the qibla direction, and the Minbar is a pulpit from where sermons are delivered.",
+    "fullDescription": "The Mihrab is a semi-circular niche in the wall of a mosque that indicates the direction of the Kaaba in Makkah, known as the qibla. Every mosque around the world contains a mihrab, serving as a focal point for the congregation during prayers.",
+    "fullDescription2": "The Minbar is a raised platform or pulpit from which the imam delivers the Friday sermon (khutbah) and other religious speeches. Traditionally, the Prophet Muhammad ﷺ had a simple three-step wooden minbar, symbolizing humility and clarity.",
+    "fullDescription3": "In Masjid al-Haram, the Mihrab and Minbar are located near the front area facing the Kaaba. The Minbar used today is a modern version that allows the khatib to be heard clearly by the masses during major congregations like Jumu’ah and Eid prayers.",
+   "image": "/images/mihrab&minbar/mihrab&minber1.webp",
+      "heroImage": "/images/mihrab&minbar/mihrab&minber1.webp",
+      "gallery": ["/images/mihrab&minbar/mihrab&minber1.webp","/images/mihrab&minbar/mihrab&minber2.webp","/images/mihrab&minbar/mihrab&minber3.webp","/images/mihrab&minbar/mihrab&minber4.webp","/images/mihrab&minbar/mihrab&minber5.webp"]
+
+  },
+  {
+    "id": "al-buraq-wall",
+    "title": "Al Buraq Wall",
+    "shortDescription": "Believed to be the site where Prophet Muhammad ﷺ tied the Buraq before ascending during the Isra and Mi'raj.",
+    "fullDescription": "Al Buraq Wall is located on the western side of the Haram al-Sharif in Jerusalem, near Al-Aqsa Mosque. It is traditionally believed that the Prophet Muhammad ﷺ tied the celestial steed Buraq to this wall before ascending to the heavens during the Isra and Mi’raj.",
+    "fullDescription2": "This wall is deeply revered in Islamic tradition due to its association with the miraculous night journey. It also stands near the location of the Dome of the Rock and forms part of the sacred landscape of Al-Quds.",
+    "fullDescription3": "Often confused with the Western Wall, the Buraq Wall remains a symbol of divine connection and serves as a point of reflection for visitors and pilgrims who honor the Prophet’s spiritual journey.",
+    "image": "/images/alburaq/alburaq1.webp",
+      "heroImage": "/images/alburaq/alburaq1.webp",
+      "gallery": ["/images/alburaq/alburaq1.webp","/images/alburaq/alburaq2.webp","/images/alburaq/alburaq3.webp","/images/alburaq/alburaq4.webp","/images/alburaq/alburaq5.webp"]
+
+  },
+  {
+    "id": "minarets",
+    "title": "Minarets",
+    "shortDescription": "Tall towers of mosques from which the call to prayer (adhan) is announced.",
+    "fullDescription": "Minarets are the tall, slender towers commonly found on mosques, used historically for the adhan (call to prayer). Their height allowed the muezzin’s voice to travel across the neighborhood or city, reminding people of the prayer times.",
+    "fullDescription2": "The Grand Mosque in Makkah features multiple stunning minarets that dominate its skyline. These minarets are symbolic of Islamic architecture and are adorned with elegant designs and lighting, creating a beautiful visual during nighttime.",
+    "fullDescription3": "Today, loudspeakers have taken over the function of projecting the adhan, but minarets still serve as architectural and spiritual symbols in the Islamic world, representing elevation toward the divine.",
+    "image": "/images/minarets/minaret1.webp",
+      "heroImage": "/images/minarets/minaret1.webp",
+      "gallery": ["/images/minarets/minaret1.webp","/images/minarets/minaret2.webp","/images/minarets/minaret3.webp","/images/minarets/minaret4.webp","/images/minarets/minaret5.webp"]
+  },
+    
+    {
+      "id": "entrance-gates",
+      "title": "Entrance Gates",
+      "shortDescription": "Masjid al-Haram has dozens of monumental entrance gates around its perimeter. Modern expansions added 18 new gates (each with a decorative dome) to the mosque.",
+      "fullDescription": "Historically the Great Mosque had only a few entry points, but Saudi enlargement projects vastly increased the number of gates. In the 1980s expansion, 18 new domed gates were built. Notable gates include King Abdulaziz Gate, King Fahd Gate, King Salman Gate, and others named for kings or virtues. Each gate features a large arch or dome and leads directly into the mosque’s prayer halls or courtyards. The added gates improve access and help distribute crowds entering the mosque.",
+      "image": "/images/Enterance&gate/gate1.webp",
+      "heroImage": "/images/Enterance&gate/gate1.webp",
+      "gallery": ["/images/Enterance&gate/gate1.webp","/images/Enterance&gate/gate2.webp","/images/Enterance&gate/gate3.webp","/images/Enterance&gate/gate4.webp","/images/Enterance&gate/gate5.webp"]    },
+    {
+      "id": "expansion-projects",
+      "title": "Expansion Projects",
+      "shortDescription": "Masjid al-Haram has undergone multiple major expansions to accommodate the growing number of pilgrims. Key projects under King Fahd (1982–1988) and King Abdullah (2008–2015) greatly enlarged the mosque’s area and capacity&#8203;:contentReference[oaicite:35]{index=35}&#8203;:contentReference[oaicite:36]{index=36}.",
+      "fullDescription": "The second Saudi expansion (1980s) under King Fahd added a massive new wing and outdoor prayer areas, connected to the mosque by the King Fahd Gate. The King Abdullah expansion extended the mosque’s northern side, adding multiple floors, broad stairways, tunnels, and two new minarets. These projects tripled the mosque’s size (to over 350,000 m²) and increased its capacity to over two million worshippers. They also included modern infrastructure like air conditioning, lighting, and crowd-control systems to serve the vast crowds.",
+      "image": "/images/expansion/expansion1.webp",
+      "heroImage": "/images/expansion/expansion1.webp",
+      "gallery": ["/images/expansion/expansion1.webp","/images/expansion/expansion2.webp","/images/expansion/expansion3.webp","/images/expansion/expansion4.webp","/images/expansion/expansion5.webp"]
+    }
+  ]
+  
