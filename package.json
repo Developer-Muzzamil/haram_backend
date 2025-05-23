@@ -1,0 +1,33 @@
+{
+  "name": "haram-backend",
+  "version": "1.0.0",
+  "description": "cards data and forms",
+  "homepage": "https://github.com/Developer-Muzzamil/haram_backend#readme",
+  "bugs": {
+    "url": "https://github.com/Developer-Muzzamil/haram_backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Developer-Muzzamil/haram_backend.git"
+  },
+  "license": "ISC",
+  "author": "Muzzamil",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test": "test"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.1",
+    "multer": "^2.0.0",
+    "nodemailer": "^7.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

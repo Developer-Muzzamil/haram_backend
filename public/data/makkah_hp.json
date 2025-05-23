@@ -1,0 +1,66 @@
+[
+  {
+    "id": "mount-arafat",
+    "title": "Mount Arafat",
+    "shortDescription": "The site where Prophet Muhammad delivered his Farewell Sermon and an essential location in Hajj rituals.",
+    "fullDescription": "Mount Arafat, also known as Jabal al-Rahmah (Mountain of Mercy), is a granite hill located about 20 kilometers southeast of Makkah. This site holds immense significance in Islam as it is where Prophet Muhammad delivered his Farewell Sermon during his last pilgrimage. The sermon outlined essential teachings on justice, equality, and the rights of human beings, establishing important social and ethical guidelines for Muslims. Mount Arafat is deeply revered and is considered the place where Allah’s mercy descends abundantly on pilgrims, making it a symbol of forgiveness and divine grace.",
+    "fullDescription2": "Every year on the 9th day of Dhu al-Hijjah, millions of pilgrims gather at the plains surrounding Mount Arafat to perform the ritual of 'Wuquf' — standing in prayer and reflection from dawn until sunset. This act is the pinnacle of the Hajj pilgrimage and is regarded as the most critical ritual. The collective presence of pilgrims praying together in humility symbolizes unity and the universal nature of Islam, as well as a profound spiritual cleansing and renewal of faith for each individual.",
+    "fullDescription3": "Spending the day on Mount Arafat is believed to be a moment of immense spiritual transformation. Pilgrims seek forgiveness for their past sins and make heartfelt supplications for the future. The scene on Arafat reflects deep devotion and the hope for mercy from Allah. It is also said that those who stand at Arafat with sincere repentance have their previous sins forgiven. The rituals and prayers performed here highlight the significance of mercy, patience, and faith in Islam, making Mount Arafat a central and sacred part of the Hajj pilgrimage.",
+      "image": "/images/arafat/arafat1.webp",
+      "heroImage": "/images/arafat/arafat1.webp",
+    "gallery": [
+        "/images/arafat/arafat2.jpg",
+        "/images/arafat/arafat3.jpg",
+        "/images/arafat/arafat4.jpg",
+        "/images/arafat/arafat5.jpg"
+      ]
+  },
+  {
+    "id": "mina",
+    "title": "Mina",
+    "shortDescription": "A valley near Makkah where pilgrims stay during Hajj and perform key rites.",
+    "fullDescription": "Mina is a vast valley located about eight kilometers east of Makkah and is famously known as the “City of Tents” because of the extensive network of air-conditioned tents built to house millions of pilgrims during Hajj. Mina serves as a temporary settlement and resting place for pilgrims, offering shelter and facilities to accommodate the enormous crowds that gather each year. The organization of Mina is a remarkable feat of logistics and planning, ensuring safety and comfort as pilgrims prepare to perform essential Hajj rituals. Its proximity to Makkah makes it a critical part of the pilgrimage journey.",
+    "fullDescription2": "One of Mina’s most important roles during Hajj is hosting the ritual of Rami al-Jamarat — the stoning of the devil. This ritual symbolizes the rejection of evil and temptation, reflecting the story of Prophet Ibrahim’s steadfast faith. Additionally, Mina is the location where pilgrims perform the sacrifice of animals, commemorating Prophet Ibrahim’s willingness to submit to Allah’s command. These acts demonstrate obedience, devotion, and the symbolic cleansing of one’s soul. Mina’s role as a place for these significant rites makes it a vital spiritual and practical part of the Hajj pilgrimage.",
+    "fullDescription3": "Beyond its logistical importance, Mina carries deep spiritual meaning for pilgrims. It embodies patience, sacrifice, and communal worship as millions come together from all over the world. The atmosphere in Mina during Hajj is one of intense devotion, unity, and reflection. Pilgrims experience the profound sense of submission to Allah’s will, reinforcing the purpose of their pilgrimage. Mina’s blend of practical organization and spiritual importance highlights its central place in the Islamic faith and the annual Hajj experience.",
+      "image": "/images/mina/mina1.webp",
+      "heroImage": "/images/mina/mina1.webp",
+    "gallery": [
+        "/images/mina/mina2.jpg",
+        "/images/mina/mina3.jpg",
+        "/images/mina/mina4.jpg",
+        "/images/mina/mina5.jpg"
+      ]
+  },
+  {
+    "id": "muzdalifah",
+    "title": "Muzdalifah",
+    "shortDescription": "A sacred open plain between Arafat and Mina where pilgrims collect pebbles for Rami al-Jamarat.",
+    "fullDescription": "Muzdalifah is an open, sprawling plain situated between Mount Arafat and Mina, playing a crucial role in the sequence of Hajj rituals. After spending the day on Mount Arafat, pilgrims proceed to Muzdalifah, where they spend the night under the open sky. This sacred place provides an opportunity for rest, combined prayer, and contemplation in a humble setting. The overnight stay emphasizes equality, simplicity, and the communal spirit of Hajj, as pilgrims from diverse backgrounds gather to worship side by side without distinctions.",
+    "fullDescription2": "One of the key activities in Muzdalifah involves collecting small pebbles that pilgrims will use in the following days for the ritual of stoning the devil (Rami al-Jamarat) in Mina. This act symbolizes rejecting evil influences and reaffirming devotion to Allah. The collection of pebbles is a symbolic gesture that connects pilgrims to the historical story of Prophet Ibrahim’s resistance against Satan’s temptations, reinforcing themes of faith, obedience, and spiritual purification.",
+    "fullDescription3": "The experience in Muzdalifah is spiritually profound, highlighting humility and solidarity among pilgrims. Praying and sleeping in the open emphasize submission to Allah and remind pilgrims of the transient nature of life. Muzdalifah strengthens the collective identity of Muslims performing Hajj, serving as a vital stage that prepares them for the rituals in Mina. The night in Muzdalifah embodies patience, devotion, and anticipation for the remaining sacred acts of the pilgrimage.",
+      "image": "/images/muzdalifa/muzdalifah1.webp",
+      "heroImage": "/images/muzdalifa/muzdalifah1.webp",
+     "gallery": [
+        "/images/muzdalifa/muzdalifah2.webp",
+        "/images/muzdalifa/muzdalifah3.webp",
+        "/images/muzdalifa/muzdalifah4.webp",
+        "/images/muzdalifa/muzdalifah5.webp"
+      ]
+  },
+  {
+    "id": "rami-al-jamarat",
+    "title": "Rami al Jamarat (Stoning of the Devil)",
+    "shortDescription": "A symbolic ritual in Mina during Hajj where pilgrims throw pebbles at three pillars representing Satan.",
+    "fullDescription": "Rami al Jamarat is one of the most symbolic and physically demanding rituals performed during Hajj, taking place in Mina. Pilgrims throw small pebbles at three stone pillars known as the Jamarat, which represent Satan and his attempts to tempt Prophet Ibrahim. This ritual commemorates Ibrahim’s rejection of evil and his unwavering obedience to Allah. The act of stoning symbolizes the rejection of evil influences and a commitment to spiritual purification and renewal of faith. Pilgrims perform this ritual over several days as an expression of steadfast devotion.",
+    "fullDescription2": "The ritual involves throwing an increasing number of pebbles on each day of the stoning period, with pilgrims demonstrating determination and patience amid large crowds. Due to the massive scale of participation, the Jamarat area has been expanded and modernized to ensure the safety of millions. The process also reinforces the spiritual themes of sacrifice, resilience, and unity among Muslims. The physical act of stoning connects pilgrims to the legacy of Prophet Ibrahim and the ongoing struggle against evil in their personal lives.",
+    "fullDescription3": "Despite the modern infrastructure surrounding the ritual, the spiritual significance of Rami al Jamarat remains deeply rooted in Islamic faith. This practice strengthens the pilgrim’s resolve to reject sinful behavior and live a life pleasing to Allah. It serves as a reminder that faith requires both symbolic acts and inner commitment. Rami al Jamarat, therefore, is not only a physical ritual but a profound spiritual cleansing that marks the culmination of several days of intense worship during Hajj.",
+      "image": "/images/al-jamarat/aljamarat1.webp",
+      "heroImage": "/images/al-jamarat/aljamarat1.webp",
+    "gallery": [
+        "/images/al-jamarat/aljamarat2.jpeg",
+        "/images/al-jamarat/aljamarat3.jpeg",
+        "/images/al-jamarat/aljamarat4.jpeg",
+        "/images/al-jamarat/aljamarat5.jpeg"
+      ]
+  }
+]

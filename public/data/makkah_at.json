@@ -1,0 +1,147 @@
+[
+    {
+    "id": "jabal-al-nour",
+    "title": "Jabal al-Nour",
+    "shortDescription": "Mountain where the Prophet Muhammad ﷺ received the first revelation in Cave Hira.",
+    "fullDescription": "Jabal al-Nour, meaning 'Mountain of Light', is located just outside Makkah. It is famous for housing the Cave of Hira where Prophet Muhammad ﷺ received the first revelation of the Qur’an from Angel Jibreel (Gabriel).",
+    "fullDescription2": "Climbing the mountain is considered a spiritual journey. Though the ascent is steep, many pilgrims undertake it to reflect upon the monumental moment when divine communication began.",
+    "fullDescription3": "The mountain offers a breathtaking view of Makkah and remains a powerful symbol of faith, patience, and spiritual awakening, commemorating the beginning of Islam’s sacred message.",
+      "image": "/images/jabal_alnour/alnour5.webp",
+    "heroImage": "/images/jabal_alnour/alnour.webp",
+      "gallery": [
+        "/images/jabal_alnour/alnour1.jpeg",
+        "/images/jabal_alnour/alnour2.jpeg",
+        "/images/jabal_alnour/alnour3.jpeg",
+        "/images/jabal_alnour/alnour4.jpeg"
+      ]
+  },
+  {
+    "id": "ghar-e-hira",
+    "title": "Ghar e Hira (Cave of Hira)",
+    "shortDescription": "Sacred cave on Jabal al-Nour where the Prophet Muhammad ﷺ received the first Quranic revelation.",
+    "fullDescription": "Ghar e Hira is located at the summit of Jabal al-Nour and holds immense significance in Islam. It is the very spot where the Prophet Muhammad ﷺ received the first verses of the Qur'an from Angel Jibreel, marking the beginning of the final divine revelation.",
+    "fullDescription2": "The cave itself is small, just enough to accommodate a few people, but its historical and spiritual significance is vast. Pilgrims climb the steep mountain to reach this cave, often spending time in prayer and reflection.",
+    "fullDescription3": "Visiting Ghar e Hira is a deeply emotional and spiritual experience for Muslims. The solitude of the cave reminds believers of the importance of contemplation and the weight of the message carried by the Prophet ﷺ.",
+      "image": "/images/hira/hira1.webp",
+    "heroImage": "/images/hira/hira1.webp",
+      "gallery": [
+        "/images/hira/hira2.jpg",
+        "/images/hira/hira3.jpeg",
+        "/images/hira/hira4.jpg",
+        "/images/hira/hira5.jpg"
+      ]
+  },
+    {
+  "id": "ghar-e-thawr",
+  "title": "Ghar e Thawr (Cave of Thawr)",
+  "shortDescription": "The cave where Prophet Muhammad ﷺ and Abu Bakr RA hid during the Hijrah from Makkah to Madinah.",
+  "fullDescription": "Ghar e Thawr is located in the mountain of Thawr, south of Makkah. This cave became historically significant when Prophet Muhammad ﷺ took refuge in it with his companion Abu Bakr As-Siddiq RA while escaping from the Quraysh during the Hijrah (migration) to Madinah.",
+  "fullDescription2": "Despite the Quraysh searching close to the cave’s entrance, a miraculous incident occurred where a spider spun a web and a pigeon laid eggs at the cave entrance, deceiving the pursuers into thinking it was undisturbed for a long time.",
+  "fullDescription3": "This cave symbolizes trust in Allah and divine protection. Pilgrims often hike the steep path to reach the cave, reflecting on the faith and patience of the Prophet ﷺ and his closest companion.",
+      "image": "/images/al-thawr/thawr1.webp",
+  "heroImage": "/images/al-thawr/thawr1.webp",
+      "gallery": [
+        "/images/al-thawr/thawr2.jpg",
+        "/images/al-thawr/thawr3.jpeg",
+        "/images/al-thawr/thawr4.jpg",
+        "/images/al-thawr/thawr5.jpg"
+      ]
+},
+    {
+  "id": "masjid-aisha",
+  "title": "Masjid Aisha (RA)t",
+  "shortDescription": "Miqat for pilgrims in Makkah wishing to perform Umrah again; named after Aisha RA.",
+  "fullDescription": "Masjid Aisha, also known as Masjid at-Tan’eem, is located about 7 kilometers from the Kaaba. It is one of the most popular miqats (designated boundary points) where pilgrims residing in Makkah go to enter into a new state of Ihram to perform another Umrah.",
+  "fullDescription2": "It is named after Aisha bint Abi Bakr RA, the wife of Prophet Muhammad ﷺ, who was instructed by the Prophet to assume Ihram from this location after she was unable to perform Umrah due to her menses during Hajj.",
+  "fullDescription3": "The mosque is spacious, modern, and well-maintained, providing full facilities for ablution, changing into Ihram, and offering prayer. It is a common starting point for many pilgrims wishing to repeat Umrah during their stay in Makkah.",
+      "image": "/images/aisha/aisha1.png",
+   "heroImage": "/images/aisha/aisha1.png",
+      "gallery": [
+        "/images/aisha/aisha2.png",
+        "/images/aisha/aisha3.avif",
+        "/images/aisha/aisha4.jpg",
+        "/images/aisha/aisha5.jpg"
+      ]
+},
+    {
+    "id": "bayah",
+    "title": "Bay'ah (Pledge of Allegiance)",
+    "shortDescription": "A historic Islamic event where the Prophet Muhammad received the allegiance of his followers.",
+    "fullDescription": "Bay'ah refers to the pledge of allegiance given by early Muslims to the Prophet Muhammad, signifying their commitment to Islam and the Prophet’s leadership. This event was a foundation for the unity and strength of the Muslim community (Ummah) during its formative years.",
+    "fullDescription2": "The Bay'ah was often taken in significant locations around Makkah and Madinah, including places near the Prophet's Mosque. These pledges established a social and political order based on Islamic principles and strengthened the communal bonds among Muslims.",
+    "fullDescription3": "Throughout Islamic history, Bay'ah remains a symbolic act of loyalty and dedication. It is still practiced by Muslims when pledging allegiance to their leaders or religious scholars, emphasizing the continuity of this early Islamic tradition.",
+      "image": "/images/Bayah/bayah1.webp",
+    "heroImage": "/images/Bayah/bayah1.webp",
+      "gallery": [
+        "/images/Bayah/bayah2.jpeg",
+        "/images/Bayah/bayah3.jpeg",
+        "/images/Bayah/bayah4.jpeg",
+        "/images/Bayah/bayah5.jpeg"
+      ]
+  },
+    {
+  "id": "hudaibiyah",
+  "title": "Hudaibiyah",
+  "shortDescription": "Historic site of the Treaty of Hudaibiyah between the Muslims and Quraysh.",
+  "fullDescription": "Hudaibiyah is an area located just outside Makkah, where the pivotal Treaty of Hudaibiyah was signed between Prophet Muhammad ﷺ and the Quraysh of Makkah in 6 AH. The treaty allowed Muslims to return to Makkah the following year for Umrah peacefully.",
+  "fullDescription2": "Though the treaty seemed unfavorable to the Muslims at first, it proved to be a strategic victory that led to increased conversions to Islam and ultimately the peaceful conquest of Makkah.",
+  "fullDescription3": "A mosque marks the site today, and many pilgrims visit Hudaibiyah to reflect on the wisdom and diplomacy of the Prophet ﷺ. The story of Hudaibiyah teaches patience, trust in Allah, and the long-term vision in leadership.",
+      "image": "/images/hudebiya/hudebiya1.webp",
+  "heroImage": "/images/hudebiya/hudebiya.webp",
+      "gallery": [
+        "/images/hudebiya/hudebiya2.jpg",
+        "/images/hudebiya/hudebiya3.jpg",
+        "/images/hudebiya/hudebiya4.jpg",
+        "/images/hudebiya/hudebiya5.jpg"
+      ]
+},
+    {
+  "id": "aisha-al-rajhi",
+  "title": "Aisha Al Rajhi Mosque",
+  "shortDescription": "One of the largest and most modern mosques in Makkah, funded by philanthropist Aisha Al Rajhi.",
+  "fullDescription": "The Aisha Al Rajhi Mosque is a large, modern mosque located along the Old Makkah Road. Built with generous endowment from Aisha Al Rajhi, it can accommodate thousands of worshippers and is known for its beautiful architecture and excellent facilities.",
+  "fullDescription2": "The mosque includes advanced air conditioning, prayer halls for men and women, and shaded outdoor areas. It serves both locals and international pilgrims who pass through the area.",
+  "fullDescription3": "With its modern amenities and spiritual ambiance, the mosque stands as a symbol of contemporary Islamic architecture blending tradition and convenience for worshippers.",
+      "image": "/images/al-rajhi/rajhi1.webp",
+      "heroImage": "/images/al-rajhi/rajhi1.webp",
+   "gallery": [
+        "/images/al-rajhi/rajhi2.jpeg",
+        "/images/al-rajhi/rajhi3.jpg",
+        "/images/al-rajhi/rajhi4.jpg",
+        "/images/al-rajhi/rajhi5.jpg"
+      ]
+},
+    {
+  "id": "masjid-nimra",
+  "title": "Masjid Nimra",
+  "shortDescription": "Historic mosque in Arafat where the Prophet ﷺ gave his Farewell Sermon.",
+  "fullDescription": "Masjid Nimra is located in the plain of Arafat, near Makkah. It holds deep historical and spiritual value as the place where Prophet Muhammad ﷺ delivered his Farewell Sermon (Khutbatul Wada’) during his final Hajj.",
+  "fullDescription2": "This sermon laid the foundation of Islamic ethics, equality, and social justice. Millions of pilgrims gather in and around Masjid Nimra during the annual Hajj, especially on the Day of Arafah, to perform prayers and supplications.",
+  "fullDescription3": "The mosque is vast and can hold thousands of worshippers. It is used mainly during Hajj and is one of the few mosques in the world that’s open only on one or two days each year during this sacred pilgrimage.",
+      "image": "/images/nimrah/nimrah1.webp",
+      "heroImage": "/images/nimrah/nimrah1.webp",
+  "gallery": [
+        "/images/nimrah/nimrah2.jpg",
+        "/images/nimrah/nimrah3.jpg",
+        "/images/nimrah/nimrah4.webp",
+        "/images/nimrah/nimrah5.webp"
+      ]
+},
+    {
+    "id": "jannat-ul-mualla",
+    "title": "Jannat ul Mu'alla",
+    "shortDescription": "A historic cemetery in Makkah, resting place of Prophet Muhammad's ancestors and early Islamic figures.",
+    "fullDescription": "Jannat ul Mu'alla is a significant Islamic cemetery located in Makkah, near the Masjid al-Haram. It is one of the oldest and most revered burial sites in Islamic history, known as the resting place of many of the Prophet Muhammad's family members, including his wife Khadijah bint Khuwaylid and his grandfather Abdul Muttalib.",
+    "fullDescription2": "This cemetery holds great spiritual importance for Muslims worldwide, as it contains the graves of several notable companions and ancestors of the Prophet. Pilgrims often visit Jannat ul Mu'alla during their pilgrimage to pay respects and reflect on the early history of Islam.",
+    "fullDescription3": "The cemetery is well-maintained and continues to be a place of quiet reflection and reverence. Its proximity to the Holy Mosque adds to its significance, linking the living history of Islam to the sacred traditions of the past.",
+      "image": "/images/jannat_ul_mullah/jannat1.webp",
+      "heroImage": "/images/jannat_ul_mullah/jannat1.webp",
+    "gallery": [
+        "/images/jannat_ul_mullah/jannat2.jpg",
+        "/images/jannat_ul_mullah/jannat3.jpg",
+        "/images/jannat_ul_mullah/jannat4.jpg",
+        "/images/jannat_ul_mullah/jannat5.jpg"
+      ]
+  }
+  ]
+  
