@@ -10,7 +10,7 @@ const path = require('path');
 
 
 app.use(cors({
-  origin: 'https://nextstop-haramain.netlify.app' // or use '*' for development
+   origin: 'https://nextstop-haramain.netlify.app' // or use '*' for development
   // origin: 'http://localhost:5173' // Allow local host
 }));
 // Basic Middleware

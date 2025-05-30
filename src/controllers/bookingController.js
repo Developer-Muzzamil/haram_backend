@@ -60,7 +60,7 @@ exports.createBooking = async (req, res) => {
     const bookingDetailsHtml = `
       <h2>Guide Booking Received</h2>
       <p><b>Guide:</b> ${guide.name} (${guide.email})</p>
-      <p><b>Booker:</b> ${finalUserName} &lt;${finalUserEmail}&gt;, Phone: ${finalUserPhone}</p>
+      <p><b>Booked By:</b> ${finalUserName} &lt;${finalUserEmail}&gt;, Phone: ${finalUserPhone}</p>
       <p><b>Date:</b> ${dateFrom} to ${dateTo}</p>
       <p><b>Time:</b> ${timeFrom} to ${timeTo}</p>
       <p><b>Message:</b> ${message || "—"}</p>
